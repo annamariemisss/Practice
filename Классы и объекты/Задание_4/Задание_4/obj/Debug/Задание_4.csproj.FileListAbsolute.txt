@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\Классы и объекты\Задание_4\Задание_4\bin\Debug\Задание_4.exe.config
+C:\Users\user\Desktop\Классы и объекты\Задание_4\Задание_4\bin\Debug\Задание_4.exe
+C:\Users\user\Desktop\Классы и объекты\Задание_4\Задание_4\bin\Debug\Задание_4.pdb
+C:\Users\user\Desktop\Классы и объекты\Задание_4\Задание_4\obj\Debug\Задание_4.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Классы и объекты\Задание_4\Задание_4\obj\Debug\Задание_4.exe
+C:\Users\user\Desktop\Классы и объекты\Задание_4\Задание_4\obj\Debug\Задание_4.pdb

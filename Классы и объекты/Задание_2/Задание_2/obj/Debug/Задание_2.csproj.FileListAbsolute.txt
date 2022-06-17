@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\Классы и объекты\Задание_2\Задание_2\bin\Debug\Задание_2.exe.config
+C:\Users\user\Desktop\Классы и объекты\Задание_2\Задание_2\bin\Debug\Задание_2.exe
+C:\Users\user\Desktop\Классы и объекты\Задание_2\Задание_2\bin\Debug\Задание_2.pdb
+C:\Users\user\Desktop\Классы и объекты\Задание_2\Задание_2\obj\Debug\Задание_2.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Классы и объекты\Задание_2\Задание_2\obj\Debug\Задание_2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Классы и объекты\Задание_2\Задание_2\obj\Debug\Задание_2.exe
+C:\Users\user\Desktop\Классы и объекты\Задание_2\Задание_2\obj\Debug\Задание_2.pdb
