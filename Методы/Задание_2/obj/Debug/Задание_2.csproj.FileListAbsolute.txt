@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\Практика 39ИС1-2\Форманюк\Методы\Задание_2\bin\Debug\Задание_2.exe.config
+C:\Users\user\Desktop\Практика 39ИС1-2\Форманюк\Методы\Задание_2\bin\Debug\Задание_2.exe
+C:\Users\user\Desktop\Практика 39ИС1-2\Форманюк\Методы\Задание_2\bin\Debug\Задание_2.pdb
+C:\Users\user\Desktop\Практика 39ИС1-2\Форманюк\Методы\Задание_2\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\Практика 39ИС1-2\Форманюк\Методы\Задание_2\obj\Debug\App.g.cs
+C:\Users\user\Desktop\Практика 39ИС1-2\Форманюк\Методы\Задание_2\obj\Debug\Задание_2_MarkupCompile.cache
+C:\Users\user\Desktop\Практика 39ИС1-2\Форманюк\Методы\Задание_2\obj\Debug\Задание_2_MarkupCompile.lref
+C:\Users\user\Desktop\Практика 39ИС1-2\Форманюк\Методы\Задание_2\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\Практика 39ИС1-2\Форманюк\Методы\Задание_2\obj\Debug\Задание_2.g.resources
+C:\Users\user\Desktop\Практика 39ИС1-2\Форманюк\Методы\Задание_2\obj\Debug\Задание_2.Properties.Resources.resources
+C:\Users\user\Desktop\Практика 39ИС1-2\Форманюк\Методы\Задание_2\obj\Debug\Задание_2.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Практика 39ИС1-2\Форманюк\Методы\Задание_2\obj\Debug\Задание_2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Практика 39ИС1-2\Форманюк\Методы\Задание_2\obj\Debug\Задание_2.exe
+C:\Users\user\Desktop\Практика 39ИС1-2\Форманюк\Методы\Задание_2\obj\Debug\Задание_2.pdb

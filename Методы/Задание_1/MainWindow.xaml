@@ -1,0 +1,36 @@
+﻿<Window x:Class="Задание_1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Задание_1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="525.14" Width="711.351">
+    <Grid>
+        <Image Source="Image1.png" Stretch="Fill"/>
+        <ComboBox x:Name="Clients_cb" HorizontalAlignment="Left" Height="26" Margin="21,48,0,0" VerticalAlignment="Top" Width="134" SelectionChanged="ComboBox_SelectionChanged" FontFamily="Swis721 BlkEx BT" BorderBrush="#FFE8DCDC">
+            <ComboBox.Background>
+                <LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+                    <GradientStop Color="#FFF0F0F0" Offset="0"/>
+                    <GradientStop Color="#FF5D5DEC" Offset="1"/>
+                </LinearGradientBrush>
+            </ComboBox.Background>
+            <ComboBoxItem Content="Edward yt"></ComboBoxItem>
+            <ComboBoxItem Content="Emma d"></ComboBoxItem>
+            <ComboBoxItem Content="Krista l"></ComboBoxItem>
+            <ComboBoxItem Content="Steed m"></ComboBoxItem>
+            <ComboBoxItem Content="Dazai"></ComboBoxItem>
+        </ComboBox>
+        <Label Content="Client" HorizontalAlignment="Left" Height="33" Margin="42,10,0,0" VerticalAlignment="Top" Width="84" FontSize="18" FontFamily="Swis721 BlkEx BT"/>
+        <Label x:Name="res" Content="" HorizontalAlignment="Left" Height="327" Margin="21,109,0,0" VerticalAlignment="Top" Width="327" Background="White" Opacity="0.8" FontFamily="Swis721 BlkEx BT"/>
+        <TextBox x:Name="Payment_amount_tb" HorizontalAlignment="Left" Height="35" Margin="458,60,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="221" Text="0" FontFamily="Swis721 BlkEx BT" FontSize="18" TextChanged="Payment_amount_tb_TextChanged"/>
+        <Label Content="Payment amount" Height="33" Margin="458,11,0,0" VerticalAlignment="Top" FontSize="18" FontFamily="Swis721 BlkEx BT" HorizontalAlignment="Left" Width="221"/>
+        <Button Content="" HorizontalAlignment="Left" Height="270" Margin="440,214,0,0" VerticalAlignment="Top" Width="253" BorderBrush="{x:Null}" Click="Button_Click">
+            <Button.Background>
+                <ImageBrush ImageSource="583ab30fcfb3f158a54b75eb.png"/>
+            </Button.Background>
+        </Button>
+        <Label Content="Get information" Height="33" Margin="458,451,0,0" VerticalAlignment="Top" FontSize="18" FontFamily="Swis721 BlkEx BT" HorizontalAlignment="Left" Width="221"/>
+
+    </Grid>
+</Window>
