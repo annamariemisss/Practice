@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\39ИС1-2\Форманюк\Колекции\Задание_3\Задание_3\bin\Debug\Задание_3.exe.config
+C:\Users\user\Desktop\39ИС1-2\Форманюк\Колекции\Задание_3\Задание_3\bin\Debug\Задание_3.exe
+C:\Users\user\Desktop\39ИС1-2\Форманюк\Колекции\Задание_3\Задание_3\bin\Debug\Задание_3.pdb
+C:\Users\user\Desktop\39ИС1-2\Форманюк\Колекции\Задание_3\Задание_3\obj\Debug\Задание_3.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\39ИС1-2\Форманюк\Колекции\Задание_3\Задание_3\obj\Debug\Задание_3.exe
+C:\Users\user\Desktop\39ИС1-2\Форманюк\Колекции\Задание_3\Задание_3\obj\Debug\Задание_3.pdb

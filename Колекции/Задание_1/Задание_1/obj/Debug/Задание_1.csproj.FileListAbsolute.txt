@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\39ИС1-2\Форманюк\Колекции\Задание_1\Задание_1\bin\Debug\Задание_1.exe.config
+C:\Users\user\Desktop\39ИС1-2\Форманюк\Колекции\Задание_1\Задание_1\bin\Debug\Задание_1.exe
+C:\Users\user\Desktop\39ИС1-2\Форманюк\Колекции\Задание_1\Задание_1\bin\Debug\Задание_1.pdb
+C:\Users\user\Desktop\39ИС1-2\Форманюк\Колекции\Задание_1\Задание_1\obj\Debug\Задание_1.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\39ИС1-2\Форманюк\Колекции\Задание_1\Задание_1\obj\Debug\Задание_1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\39ИС1-2\Форманюк\Колекции\Задание_1\Задание_1\obj\Debug\Задание_1.exe
+C:\Users\user\Desktop\39ИС1-2\Форманюк\Колекции\Задание_1\Задание_1\obj\Debug\Задание_1.pdb
